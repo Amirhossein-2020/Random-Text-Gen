@@ -1,4 +1,0 @@
-The whole project can be build with make all command when in the right directory
-Wth make run it executes and also compiles if neccessary the whole project, the make help command will show all possible combinations of make instructions.
-In src directory there are .c files which are going to be compiled in the build directory in obj folder and in the bin folder there can be found the executable of the program after compile.
-After runing the program all of the process is streight forward since there is going to be a prompt for each instruction.
